@@ -1,0 +1,5 @@
+- My name is Alexander Nolin
+- This GitHub Page will mainly be used for my official Resume and other work related topics
+- Most if not all of these programs will use Processing 4, since this is where I made alot of my projects
+- If have any questions message me at email bellow
+- Email: avn0007@auburn.edu
